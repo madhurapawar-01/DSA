@@ -11,6 +11,8 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
+
+        //Madhura Pawar
         ListNode slow=head;
         ListNode fast=head;
 
