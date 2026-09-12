@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-#Madhura Pawar
 SELECT (
     SELECT DISTINCT salary
     FROM Employee
